@@ -10,4 +10,4 @@ I do not claim to be an expert in Python programming (or programming in general)
 
 As you'll quickly discover, most of my tools will be written with a Windows environment in mind -- though I often run and test them on Mac OSX as well. As such, many of the tools I publish here will have accompanying Windows standalone executable packages (courtesy of [pyinstaller](http://www.pyinstaller.org/)) to keep things simple for non-developers.
 
-For other developers out there, I encourage you to use, copy, modify, or fork the any of my code for you own needs. All of the code will be hosted on [GitHub](https://github.com/pyface-net) and available under the [MIT License](https://opensource.org/licenses/MIT). I appreciate being notified of bugs or feature requests, but I make no promise to address them.
+For other developers out there, I encourage you to use, copy, modify, or fork any of my code for you own needs. All of the code will be hosted on [GitHub](https://github.com/pyface-net) and available under the [MIT License](https://opensource.org/licenses/MIT). I appreciate being notified of bugs or feature requests, but I make no promise to address them.
